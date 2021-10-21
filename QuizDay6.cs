@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace FOPCS_Tests
 {
-    class Program
+    class QuizDay6
     {
-        static void Main(string[] args)
+        static void Main(string[] arg)
         {
-
 
         }
     }

@@ -45,6 +45,11 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuizDay2.cs" />
+    <Compile Include="QuizDay3.cs" />
+    <Compile Include="QuizDay4.cs" />
+    <Compile Include="QuizDay5.cs" />
+    <Compile Include="QuizDay6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
