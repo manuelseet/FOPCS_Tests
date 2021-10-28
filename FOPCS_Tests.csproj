@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>FOPCS_Tests.QuizDay4</StartupObject>
+    <StartupObject>FOPCS_Tests.QuizDay6</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
