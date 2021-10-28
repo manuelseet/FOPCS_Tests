@@ -10,7 +10,16 @@ namespace FOPCS_Tests
     {
         static void Main(string[] arg)
         {
-
+            Console.Write("Please enter the length in cm: ");
+            double cm = Convert.ToDouble(Console.ReadLine());
+            double inches = ConvertToInch(cm);
+            Console.WriteLine($"{inches: #.000}");
         }
+
+        public static double ConvertToInch(double len)
+        {
+            return len / 2.54;
+        }
+
     }
 }
